@@ -1,0 +1,17 @@
+/*header related*/
+.banner {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-style: normal;
+    line-height: normal; 
+}
+h3 {
+    font-size: 32px;
+    font-weight: 400;
+}
+h1 {
+    font-size: 72px; 
+    font-weight: 900;
+    line-height: 95px;
+}
